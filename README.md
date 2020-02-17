@@ -7,11 +7,11 @@ Temario, apuntes y ejercicios del módulo de Desarrollo de Aplicaciones Web (DAW
   - [Diseño de Interfaces Web](DIW) **CURSO 2018-19, NOTA 7**
   - [Desarrollo Web Entorno Cliente](DWEC)
   - [Desarrollo Web Entorno Servidor](DWES)
-  - [Entornos de Desarrollo](EED)
+  - [Entornos de Desarrollo](EED) **CURSO 2019-20, NOTA x**
   - [Empresa e Iniciativa Emprendedora](EIE) **CURSO 2018-19, NOTA 10**
   - [Formación y Orientación Laboral](FOL) **CURSO 2018-19, NOTA 10**
-  - [Lenguajes de Marcas](LLMM)
-  - [Programación](PROG)
+  - [Lenguajes de Marcas](LLMM) **CURSO 2019-20, NOTA x**
+  - [Programación](PROG) **CURSO 2019-20, NOTA x**
   - [Sistemas Informáticos](SSII)
 
 ### Créditos
